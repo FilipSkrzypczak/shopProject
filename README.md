@@ -29,7 +29,7 @@ Frontend is built with React + Redux; backend is Node.js + Express; data is stor
 
 ## 📂 Project structure
 
-.
+```
 ├── server/             # Express API (server)
 │   ├── Models/          # Mongoose models (User, Product, Category, Order)
 │   ├── Routes/          # Express routes (users, products, categories, orders, auth)
@@ -58,7 +58,7 @@ Frontend is built with React + Redux; backend is Node.js + Express; data is stor
 │   └── .env.local       # Admin frontend env (REACT_APP_SERVER_URL)
 │
 └── README.md            # this file
-
+```
 ---
 
 ## 🔧 Environment files & important locations
