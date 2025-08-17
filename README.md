@@ -29,6 +29,17 @@ Frontend is built with React + Redux; backend is Node.js + Express; data is stor
 
 Each folder has its own `package.json` and environment configuration (`.env` or `.env.local`).  
 
+### Admin Dashboard
+![Admin Dashboard](screenshots/admin-dashboard-1.png)
+![Admin Dashboard](screenshots/admin-dashboard-2.png)
+![Admin Dashboard](screenshots/admin-dashboard-3.png)
+
+### Client Homepage
+![Client](screenshots/client-1.png)
+![Client](screenshots/client-2.png)
+![Client](screenshots/client-3.png)
+![Client](screenshots/client-4.png)
+
 ---
 
 ## 📁 Project Structure
