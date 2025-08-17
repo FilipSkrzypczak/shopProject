@@ -1,5 +1,5 @@
-# Writing README.txt to /mnt/data with full project README content.
-content = r"""# 🛒 XYZ Store — Fullstack E-Commerce Platform
+
+# 🛒 XYZ Store — Fullstack E-Commerce Platform
 
 A modern fullstack e-commerce application with separate **frontend (client)**, **backend (server)** and an optional **admin dashboard**.  
 Frontend is built with React + Redux; backend is Node.js + Express; data is stored in MongoDB (Mongoose).
