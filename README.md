@@ -26,6 +26,3 @@ The project uses **React/Redux** for the client and admin panels, **Node.js/Expr
 - **Dev Tools:** nodemon, concurrently, redux-devtools-extension  
 
 ---
-
-## 📂 Project Structure
-
