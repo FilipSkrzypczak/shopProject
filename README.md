@@ -97,7 +97,7 @@ Create a `.env` file inside the `server` folder:
 
 ```env
 PORT=5000
-MONGO_URI=mongodb://localhost:27017/newprojectshop
+MONGO_URL=mongodb://localhost:27017/yourdatabasename
 JWT_SECRET=YourSuperSecretKey
 ```
 
