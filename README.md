@@ -102,7 +102,7 @@ JWT_SECRET=YourSuperSecretKey
 ```
 
 * `PORT` – backend server port
-* `MONGO_URI` – MongoDB connection string
+* `MONGO_URL` – MongoDB connection string
 * `JWT_SECRET` – secret key for JWT tokens
 
 ---
@@ -162,7 +162,7 @@ REACT_APP_API_URL=http://your-server:5000
    Update `server/.env`:
 
 ```env
-MONGO_URI=new_mongodb_address
+MONGO_URL=new_mongodb_address
 JWT_SECRET=new_secret_key
 ```
 
