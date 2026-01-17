@@ -16,12 +16,11 @@ Frontend is built with React + Redux; backend is Node.js + Express; data is stor
 # 🛠 Tech Stack
 - **Backend:** Node.js, Express, MongoDB, Mongoose, JWT, bcryptjs  
 - **Frontend:** React, Redux, React Router, Styled Components  
-- **Admin Panel:** React, Redux, React Router, Styled Components  
 - **Utilities:** Axios, Moment.js, Web Vitals  
 - **Dev Tools:** nodemon, concurrently, ESLint  
 - **Deployment Ready:** Production build scripts for client and admin  
 
-**NewProjectShop** is a **fullstack e-commerce application** consisting of three main parts:  
+**XYZ Store** is a **fullstack e-commerce application** consisting of three main parts:  
 
 - 🛠 **admin** – Admin dashboard  
 - 🛒 **client** – Frontend for users  
